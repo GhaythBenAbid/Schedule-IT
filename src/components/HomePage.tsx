@@ -58,7 +58,6 @@ function HomePage() {
 
     return (
         <div>
-
             <div className="w-full flex justify-center h-full">
                 <aside className="sticky sidebar h-screen justify-start">
                     <section className="sidebar-title items-center p-4">
