@@ -1,0 +1,70 @@
+{
+    "schedule": [
+        {
+            "event": "Wake up and get ready for the day",
+            "time": "6:00 AM",
+            "duration": "1 hour",
+            "important": true
+        },
+        {
+            "event": "Morning exercise",
+            "time": "7:00 AM",
+            "duration": "1 hour",
+            "important": true
+        },
+        {
+            "event": "Breakfast",
+            "time": "8:30 AM",
+            "duration": "30 minutes",
+            "important": true
+        },
+        {
+            "event": "Work on project",
+            "time": "9:00 AM",
+            "duration": "3 hours",
+            "important": true
+        },
+        {
+            "event": "Lunch break",
+            "time": "12:00 PM",
+            "duration": "1 hour",
+            "important": false
+        },
+        {
+            "event": "Attend meeting",
+            "time": "1:00 PM",
+            "duration": "2 hours",
+            "important": true
+        },
+        {
+            "event": "Afternoon work session",
+            "time": "3:00 PM",
+            "duration": "3 hours",
+            "important": true
+        },
+        {
+            "event": "Dinner",
+            "time": "6:00 PM",
+            "duration": "1 hour",
+            "important": true
+        },
+        {
+            "event": "Relaxation time",
+            "time": "7:00 PM",
+            "duration": "2 hours",
+            "important": false
+        },
+        {
+            "event": "Nighttime routine",
+            "time": "9:00 PM",
+            "duration": "1 hour",
+            "important": true
+        },
+        {
+            "event": "Bedtime",
+            "time": "10:00 PM",
+            "duration": "8 hours",
+            "important": true
+        }
+    ]
+}
